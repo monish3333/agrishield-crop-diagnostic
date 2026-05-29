@@ -1,0 +1,6 @@
+{
+  "name": "AgriShield Crop Diagnostic Lab",
+  "description": "AI-powered crop disease diagnostics with real-time Telugu & English bilingual treatment planning and local voice readouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
